@@ -1,0 +1,12 @@
+[
+    {
+        "id": "E101",
+        "name": "Prince Tirkeyy",
+        "records": [
+            {
+                "date": "2026-11-27",
+                "status": "P"
+            }
+        ]
+    }
+]
